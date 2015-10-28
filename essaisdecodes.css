@@ -7,6 +7,10 @@ h1 {
   font-size:2.5em; 
   font-family:'Gaudy Old Style' 'Times New Roman' serif; 
   font-variant:small-caps;
+  border-style:solid;
+  border-color:#3CB371;
+  border-width:2px;
+  border-radius:50px;
 }
 
 h2{
@@ -19,6 +23,8 @@ h2{
   font-size:1.3em;
   font-family:'Gaudy Old Style' 'Times New Roman' serif;
   font-weight:bold;
-  
-  
+}
+
+th {
+  color:#3CB371;
 }
